@@ -1,19 +1,23 @@
 # Vlad Durdeu
 
-Software developer building **Python backend systems, applied AI, agentic workflows, and developer tools**.
+Python & AI engineer building reliable backend systems, agentic workflows, and developer tools.
 
-My work focuses on shipping systems that remain understandable and dependable after the demo: APIs, persistence, integrations, evaluation, automation, and failure handling. Recent projects span FastAPI/PostgreSQL services, LLM-powered products, Windows desktop automation, and JVM performance diagnostics.
+I turn ambiguous product ideas into systems people can run, inspect, test, and maintain: APIs, persistence, integrations, evaluation loops, automation, and failure handling.
 
-## Selected work
+## Featured work
 
-| Project | What it shows |
+| Project | What it demonstrates |
 | --- | --- |
-| [Trinity Pilot](https://github.com/DurdeuVlad/trinity-pilot) | A Windows desktop agent that turns plain-language goals into typed browser, terminal, and desktop workflows, checks evidence, and retries bounded failures. |
-| [Food Journal AI Bot](https://github.com/DurdeuVlad/calorie-intake-tracker-ai-bot) | A self-hosted Python/FastAPI/PostgreSQL service with LLM tool use, multi-channel input, idempotent webhooks, reliable delivery, and security controls. |
-| [Scriptorium](https://github.com/DurdeuVlad/scriptorium) | A FastAPI/LangGraph/React editorial workflow with schema-gated phases, specialized agents, MCP-backed memory, and human approval points. |
-| [HeapHammer](https://github.com/DurdeuVlad/heaphammer) | Deterministic Minecraft/JVM stress testing that replays server workloads and detects retained-memory regressions. |
-| [LeetCode Coach Service](https://github.com/DurdeuVlad/leetcode-coach-service) | A Python/FastAPI coaching service with PostgreSQL, scheduled workflows, LLM agents, and reproducible acceptance flows. |
-| [Skillweft](https://github.com/DurdeuVlad/skillweft) | A capability manager for AI coding agents using progressive disclosure, explicit trust, and immutable skill snapshots. |
+| [Food Journal AI Bot](https://github.com/DurdeuVlad/calorie-intake-tracker-ai-bot) | Self-hosted Python/FastAPI/PostgreSQL service with LLM tool use, multi-channel input, idempotent webhooks, reliable delivery, and security-focused boundaries. |
+| [HeapHammer](https://github.com/DurdeuVlad/heaphammer) | Java/JVM performance engineering through deterministic Minecraft server workloads, retained-memory diagnostics, and reproducible regression reports. |
+| [LeetCode Coach Service](https://github.com/DurdeuVlad/leetcode-coach-service) | Python/FastAPI/SQLModel service with scheduled workflows, LLM coaching, migrations, a Telegram adapter, and a substantial automated test suite. |
+| [Skillweft](https://github.com/DurdeuVlad/skillweft) | Node.js CLI for progressive disclosure, trusted capability selection, immutable skill snapshots, and explicit agent-host mutations. |
+| [Identify the Author](https://github.com/DurdeuVlad/Identify-the-author) | NLP experimentation with TF-IDF, classical models, calibration, cross-validation, and ensemble/submission tooling. |
+| [Value Sniper](https://github.com/DurdeuVlad/value-sniper) | Experimental Python quantitative-research dashboard for multi-signal analysis and historical backtesting, with limitations documented rather than hidden. |
+
+## More work
+
+[Trinity Pilot](https://github.com/DurdeuVlad/trinity-pilot) explores typed desktop/browser automation with evidence checks and bounded retries. [Scriptorium](https://github.com/DurdeuVlad/scriptorium) explores schema-gated editorial workflows and agent coordination. [Squadron](https://github.com/DurdeuVlad/squadron-mcp) packages structured multi-agent delegation and state tracking through MCP.
 
 ## What I’m open to
 
