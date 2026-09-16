@@ -17,4 +17,4 @@ My work focuses on shipping systems that remain understandable and dependable af
 
 ## What I’m open to
 
-Backend and AI engineering roles, product engineering, and focused automation work. If you need help turning an AI or workflow idea into a tested, maintainable system, [let’s talk](https://www.dwurdy.com).
+Backend and AI engineering roles, product engineering, and focused automation work. If you need help turning an AI or workflow idea into a tested, maintainable system, [connect with me on LinkedIn](https://www.linkedin.com/in/vlad-durdeu-25132b258/) or [email me](mailto:durdeuvladioan@gmail.com).
